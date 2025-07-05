@@ -1,5 +1,7 @@
 #CodeGen Architect
- Project Idea: Natural Language Use Case Identification & Template Creation
+
+
+Project Idea: Natural Language Use Case Identification & Template Creation
 CodeGen Architect is a project focused on simplifying the initial stages of application development. It aims to empower users to describe their desired application use case in natural language (e.g., "develop a social media application with user profiles and a feed"), after which an AI will generate foundational code, recommend suitable technologies, and provide ready-to-use templates for various components, including frontend, backend, database, and styling.
 
 The core objective is to significantly reduce the time and effort typically spent on project setup, allowing developers to focus more rapidly on core feature development.
